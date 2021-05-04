@@ -11,8 +11,8 @@ var teleg =new telegram();
 // настройка 
 
 teleg.status="вкл"
-teleg.id="id you teltegramm"
-teleg.token="token bot telegramm "
+teleg.id="1147565502"
+teleg.token="1680350296:AAEOE2R9-UIvaHcntqKQzv2mcV4rFLDLW3c"
 
 // настройка бинанс api для реальной биржы
 binance.options({
