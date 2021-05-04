@@ -1,6 +1,6 @@
-let binancespot=require('./binancespot')
+let binancespot = require('./binancespot')
 let http = require('request')
-let bir=require('./server');
+let bir = require('./server');
 
 
 // ////binance
